@@ -1,0 +1,11 @@
+.classpath
+.settings
+bin
+drivers
+libs
+.project
+dbdriver
+target/
+reports/
+test-output/
+
